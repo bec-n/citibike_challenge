@@ -14,7 +14,8 @@ Link to dashboard: https://public.tableau.com/app/profile/bec.n/viz/CitibikeAnal
 
 - While the number of End Stations are more than than the number of Start Stations, the End Stations are clustered closer together and less spread out. 
 
-![image](https://github.com/bec-n/citibike_challenge/assets/126390405/baa57e93-9a6a-43d1-b665-8ad48a92cbdc)
+![image](https://github.com/bec-n/citibike_challenge/assets/126390405/92fbf0d8-a668-4808-9ecd-4e739496e942)
+
 
 
 
