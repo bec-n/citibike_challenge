@@ -10,6 +10,7 @@ Link to dashboard: https://public.tableau.com/app/profile/bec.n/viz/CitibikeAnal
 - Note there were outliers in the data. The 'Age and Gender' users chart was filtered to exclude unknown users and the chart ended at age 90. Data past this age was likely incorrect reporting of users. 
 - Most common age of users for both men and women was 30 years old 
 
-![Alt text](image.png)
+![image](https://github.com/bec-n/citibike_challenge/assets/126390405/74c3513d-8b9c-4037-b95e-99d05c1f290e)
+
 
 
